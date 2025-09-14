@@ -8,7 +8,7 @@ fetch('projects.json')
       .filter(p => p.category === category)
       .map(p => `
         <figure class="card">
-          <img class="thumb" src="${p.img}" alt="${p.alt}">
+          <img class="thumb" src="${p.img}" alt="${p.alt}" loading="lazy">
           <figcaption class="info">
             <p class="title">${p.title}</p>
             <p class="desc">${p.desc || ""}</p>
