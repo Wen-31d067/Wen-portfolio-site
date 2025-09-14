@@ -1,0 +1,50 @@
+@use './variables' as *;
+
+body {
+  background-color: $color-bg;
+}
+.visual_text{
+  max-width: 1000px;
+  margin: 10px 20px;
+}
+
+.wrap{
+  max-width: 1000px;
+  margin: 0 auto;
+}
+.grid {
+  display: grid;
+  gap: 18px;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  max-width: 1000px;
+  margin: 0px 10px;
+  gap: 20px;
+}
+
+@media (max-width: 500px) {
+  .grid {
+    grid-template-columns: 1fr; 
+  } 
+}
+
+.card .thumb {
+  object-fit: cover;
+  width: 100%;
+  display: block;
+  padding-bottom: 5px;
+}
+.card {
+  .title {
+    color: $color-green-dark;
+    font-weight: 700;
+  }
+}
+
+.zeczec_button{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 10px;
+  padding: 20px 20px;
+
+}
