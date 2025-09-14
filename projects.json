@@ -3,7 +3,7 @@
     "id": 1,
     "title": "聖誕節主視覺",
     "desc": "色彩系統與角色插畫統一活動氛圍。",
-    "img": "/img/Portfolio/Visual_design1.jpg",
+    "img": "img/Portfolio/Visual_design1.jpg",
     "alt": "聖誕節活動主視覺海報",
     "category": "visual"
   },
@@ -11,7 +11,7 @@
     "id": 2,
     "title": "伯公生｜東山好食福 主視覺",
     "desc": "在地意象與食農元素結合，建立友善親和的節慶氛圍。",
-    "img": "/img/Portfolio/Visual_design2.jpg",
+    "img": "img/Portfolio/Visual_design2.jpg",
     "alt": "伯公生東山好食福活動主視覺與延伸物料",
     "category": "visual"
   },
@@ -19,7 +19,7 @@
     "id": 3,
     "title": "聖誕派對 主視覺",
     "desc": "教會活動兩版視覺——粉色溫暖與深藍典雅，強化節慶氛圍。",
-    "img": "/img/Portfolio/Visual_design3.jpg",
+    "img": "img/Portfolio/Visual_design3.jpg",
     "alt": "教會聖誕派對主視覺兩版設計",
     "category": "visual"
   },
@@ -27,7 +27,7 @@
     "id": 4,
     "title": "農曆新年主視覺（兔年）",
     "desc": "幾何拼貼與暖色系構成，建立節慶辨識度與延展性。",
-    "img": "/img/Portfolio/Visual_design4.jpg",
+    "img": "img/Portfolio/Visual_design4.jpg",
     "alt": "兔年新年主視覺與多版面延伸",
     "category": "visual"
   },
@@ -36,7 +36,7 @@
     "id": 5,
     "title": "聖誕特賣 主視覺",
     "desc": "插畫角色與燈串元素，整合海報、Banner 與社群套組。",
-    "img": "/img/Portfolio/Visual_design5.jpg",
+    "img": "img/Portfolio/Visual_design5.jpg",
     "alt": "聖誕特賣活動主視覺與延伸設計",
     "category": "visual"
   },
@@ -45,7 +45,7 @@
     "id": 6,
     "title": "農曆新年主視覺（虎年）",
     "desc": "品牌吉祥物化插圖，搭配深紅底強化新年氣氛。",
-    "img": "/img/Portfolio/Visual_design6.jpg",
+    "img": "img/Portfolio/Visual_design6.jpg",
     "alt": "虎年新年主視覺與社群貼文組",
     "category": "visual"
   },
@@ -53,7 +53,7 @@
     "id": 7,
     "title": "台南講客夏令營 主視覺",
     "desc": "客家文化與美食符號化圖像，兩款風格對應不同受眾。",
-    "img": "/img/Portfolio/Visual_design7.jpg",
+    "img": "img/Portfolio/Visual_design7.jpg",
     "alt": "台南講客夏令營海報與橫幅主視覺",
     "category": "visual"
   },
@@ -61,7 +61,7 @@
     "id": 8,
     "title": "新春特賣 主視覺",
     "desc": "粉橘色系與圖像圖騰，整合促銷與公告版式。",
-    "img": "/img/Portfolio/Visual_design8.jpg",
+    "img": "img/Portfolio/Visual_design8.jpg",
     "alt": "新春特賣主視覺與社群行銷素材",
     "category": "visual"
   },
@@ -69,7 +69,7 @@
     "id": 9,
     "title": "社群貼文設計｜旋轉書櫃",
     "desc": "負責主視覺與延伸應用（社群貼文、廣告圖）。品牌調性統一、版式一致。",
-    "img": "/img/Portfolio/zeczec1.jpg",
+    "img": "img/Portfolio/zeczec1.jpg",
     "alt": "負責主視覺，主視覺延伸至各式貼文，維持一致品牌調性。",
     "category": "zeczec"
   },
@@ -77,7 +77,7 @@
     "id": 10,
     "title": "廣告影音素材｜旋轉書櫃",
     "desc": "影片剪輯及縮圖設計。",
-    "img": "/img/Portfolio/zeczec2.jpg",
+    "img": "img/Portfolio/zeczec2.jpg",
     "alt": "旋轉書櫃募資廣告影片視覺素材",
     "category": "zeczec"
   },
@@ -85,7 +85,7 @@
     "id": 11,
     "title": "商品頁設計｜旋轉書櫃",
     "desc": "負責募資商品頁設計，把圖文模組化，配合檔期快速更新。",
-    "img": "/img/Portfolio/zeczec3.jpg",
+    "img": "img/Portfolio/zeczec3.jpg",
     "alt": "旋轉書櫃募資商品頁長頁設計",
     "category": "zeczec"
   },
@@ -93,7 +93,7 @@
   "id": 12,
   "title": "募資專案頁｜旋轉書櫃",
   "desc": "實際上線頁面的情境示意，呈現頁面佈局、主視覺與品牌調性。",
-  "img": "/img/Portfolio/zeczec0.jpeg",
+  "img": "img/Portfolio/zeczec0.jpeg",
   "alt": "旋轉書櫃嘖嘖募資專案頁 Mockup 展示",
   "category": "zeczec"
 },
@@ -101,7 +101,7 @@
     "id": 13,
     "title": "商品頁設計｜嬰兒床租賃",
     "desc": "用流程圖與方案表整理重點，圖示化賣點，價格與步驟一目了然。",
-    "img": "/img/Portfolio/Product_page1.jpg",
+    "img": "img/Portfolio/Product_page1.jpg",
     "alt": "嬰兒床租賃商品頁：流程、方案與圖示賣點",
     "category": "media"
   },
@@ -109,7 +109,7 @@
     "id": 14,
     "title": "商品頁設計｜兒童木製傢俱",
     "desc": "",
-    "img": "/img/Portfolio/Product_page2.jpg",
+    "img": "img/Portfolio/Product_page2.jpg",
     "alt": "閱讀趣繪本架商品頁：情境照片與規格示意",
     "category": "media"
   },
@@ -117,7 +117,7 @@
     "id": 15,
     "title": "商品頁設計｜成長型嬰兒床",
     "desc": "暖粉色系，畫面溫馨安心，重點資訊清楚易讀。",
-    "img": "/img/Portfolio/Product_page3.jpg",
+    "img": "img/Portfolio/Product_page3.jpg",
     "alt": "成長型嬰兒床商品頁：功能示意、尺寸與檢驗報告",
     "category": "media"
   },
@@ -125,7 +125,7 @@
     "id": 16,
     "title": "社群貼文設計｜節慶與公告",
     "desc": "",
-    "img": "/img/Portfolio/Social_media1.jpg",
+    "img": "img/Portfolio/Social_media1.jpg",
     "alt": "節慶與公告社群貼文套組",
     "category": "media"
   },
@@ -133,7 +133,7 @@
     "id": 17,
     "title": "Banner 設計",
     "desc": "",
-    "img": "/img/Portfolio/Social_media2.jpg",
+    "img": "img/Portfolio/Social_media2.jpg",
     "alt": "夏日促案網站 Banner 視覺",
     "category": "media"
   },
@@ -141,7 +141,7 @@
     "id": 18,
     "title": "社群貼文設計｜萬聖節／聖誕",
     "desc": "",
-    "img": "/img/Portfolio/Social_media3.jpg",
+    "img": "img/Portfolio/Social_media3.jpg",
     "alt": "萬聖節與聖誕節社群貼文套組",
     "category": "media"
   },
@@ -149,7 +149,7 @@
     "id": 19,
     "title": "社群貼文設計｜旋轉書櫃",
     "desc": "負責主視覺與延伸應用（社群貼文、廣告圖）。品牌調性統一、版式一致。",
-    "img": "/img/Portfolio/zeczec1.jpg",
+    "img": "img/Portfolio/zeczec1.jpg",
     "alt": "負責主視覺，主視覺延伸至各式貼文，維持一致品牌調性。",
     "category": "media"
   },
@@ -157,7 +157,7 @@
     "id": 20,
     "title": "Banner 設計",
     "desc": "加入可愛插圖及鮮豔活潑色調，呼應兒童商品。",
-    "img": "/img/Portfolio/Social_media4.jpg",
+    "img": "img/Portfolio/Social_media4.jpg",
     "alt": "品牌促銷 Banner",
     "category": "media"
 
@@ -166,7 +166,7 @@
     "id": 21,
     "title": "社群貼文設計",
     "desc": "",
-    "img": "/img/Portfolio/Social_media5.jpg",
+    "img": "img/Portfolio/Social_media5.jpg",
     "alt": "開學檔期社群貼文",
     "category": "media"
   },
@@ -174,7 +174,7 @@
     "id": 22,
     "title": "Banner 設計",
     "desc": "活潑排版及插圖",
-    "img": "/img/Portfolio/Social_media6.jpg",
+    "img": "img/Portfolio/Social_media6.jpg",
     "alt": "旅遊主題Banner",
     "category": "media"
   },
@@ -182,7 +182,7 @@
     "id": 23,
     "title": "社群貼文設計",
     "desc": "奶油色系與手寫感字體，品牌氛圍柔和統一。",
-    "img": "/img/Portfolio/Social_media7.jpg",
+    "img": "img/Portfolio/Social_media7.jpg",
     "alt": "sunny shop 社群貼文設計",
     "category": "media"
   },
@@ -190,7 +190,7 @@
     "id": 24,
     "title": "Banner 設計",
     "desc": "直式版面，方格紙底與文具插圖，大字引導視線。",
-    "img": "/img/Portfolio/Social_media8.jpg",
+    "img": "img/Portfolio/Social_media8.jpg",
     "alt": "Back to school 直式 Banner",
     "category": "media"
   },
@@ -198,7 +198,7 @@
     "id": 25,
     "title": "商品與包裝插畫｜On the farm",
     "desc": "手繪農場主題插畫，製作成遮陽簾，延伸至包裝與周邊。",
-    "img": "/img/Portfolio/Illustration1.jpg",
+    "img": "img/Portfolio/Illustration1.jpg",
     "alt": "農場主題商品與包裝插畫設計",
     "category": "Illustration"
   },
@@ -206,7 +206,7 @@
     "id": 26,
     "title": "吉祥物插畫｜Man&Kids Family",
     "desc": "品牌吉祥物設計，還有製作成貼紙",
-    "img": "/img/Portfolio/Illustration2.jpg",
+    "img": "img/Portfolio/Illustration2.jpg",
     "alt": "品牌吉祥物角色插畫",
     "category": "Illustration"
   },
@@ -214,7 +214,7 @@
     "id": 26,
     "title": "三摺頁製作",
     "desc": "根據品牌不同分類之傢具，製作對應之詳細摺頁介紹。",
-    "img": "/img/Portfolio/Illustration3.jpg",
+    "img": "img/Portfolio/Illustration3.jpg",
     "alt": "品牌傢具三摺頁製作",
     "category": "Illustration"
   },
@@ -222,7 +222,7 @@
     "id": 27,
     "title": "Logo｜棒球隊旗幟",
     "desc": "",
-    "img": "/img/Portfolio/Illustration4.jpg",
+    "img": "img/Portfolio/Illustration4.jpg",
     "alt": "棒球隊Logo與旗幟展示",
     "category": "Illustration"
   },
@@ -230,7 +230,7 @@
     "id": 28,
     "title": "Procreate插畫",
     "desc": "",
-    "img": "/img/Portfolio/Illustration5.jpg",
+    "img": "img/Portfolio/Illustration5.jpg",
     "alt": "森林露營夜景場景插畫",
     "category": "Illustration"
   },
@@ -238,7 +238,7 @@
     "id": 29,
     "title": "Procreate插畫",
     "desc": "",
-    "img": "/img/Portfolio/Illustration6.jpg",
+    "img": "img/Portfolio/Illustration6.jpg",
     "alt": "Into the wild 公路場景插畫",
     "category": "Illustration"
   },
@@ -246,7 +246,7 @@
     "id": 30,
     "title": "Procreate插畫",
     "desc": "",
-    "img": "/img/Portfolio/Illustration7.jpg",
+    "img": "img/Portfolio/Illustration7.jpg",
     "alt": "Procreate插畫",
     "category": "Illustration"
   },
@@ -254,7 +254,7 @@
     "id": 31,
     "title": "Procreate插畫",
     "desc": "",
-    "img": "/img/Portfolio/Illustration8.jpg",
+    "img": "img/Portfolio/Illustration8.jpg",
     "alt": "聖誕主題Procreate插畫",
     "category": "Illustration"
   },
@@ -262,7 +262,7 @@
 "id": 32,
 "title": "Procreate插畫",
 "desc": "",
-"img": "/img/Portfolio/square1.jpg",
+"img": "img/Portfolio/square1.jpg",
 "alt": "穿雨靴提著魚鉤的釣魚女孩插畫",
 "category": "Illustration"
 },
@@ -270,7 +270,7 @@
 "id": 33,
 "title": "Procreate插畫",
 "desc": "",
-"img": "/img/Portfolio/square2.JPG",
+"img": "img/Portfolio/square2.JPG",
 "alt": "雪地裡帶旗幟裝飾的小屋插畫",
 "category": "Illustration"
 },
@@ -278,7 +278,7 @@
 "id": 34,
 "title": "Procreate插畫",
 "desc": "",
-"img": "/img/Portfolio/square3.JPG",
+"img": "img/Portfolio/square3.JPG",
 "alt": "多個聖誕樹與裝飾物的拼貼插畫",
 "category": "Illustration"
 },
@@ -286,7 +286,7 @@
 "id": 35,
 "title": "Procreate插畫",
 "desc": "",
-"img": "/img/Portfolio/square4.GIF",
+"img": "img/Portfolio/square4.GIF",
 "alt": "抱著圓球甜點行走的男孩插畫",
 "category": "Illustration"
 },
@@ -294,7 +294,7 @@
 "id": 36,
 "title": "Procreate插畫",
 "desc": "",
-"img": "/img/Portfolio/square5.JPG",
+"img": "img/Portfolio/square5.JPG",
 "alt": "聖誕天使與蠟燭的手繪插畫",
 "category": "Illustration"
 }
