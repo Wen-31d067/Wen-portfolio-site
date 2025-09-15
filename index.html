@@ -29,14 +29,18 @@
     </button>
   </div>
 </header>
-
 <section class="hero">
+  <div class="glows" aria-hidden="true">
+    <span class="glow g1"></span>
+    <span class="glow g2"></span>
+  </div>
+
   <div class="hero_container">
     <div class="hero_content">
       <h1 class="hero_title">I'm Wen<br>Visual Designer × Frontend Developer</h1>
       <p class="hero_desc">專長於結合設計與前端，將想法轉化成直覺流暢的互動體驗。</p>
       <div class="hero_actions">
-        <a class="button button--solid" href="#projects">查看專案</a>   
+        <a class="button button--solid" href="#projects">查看專案</a>
         <a class="button button--outline" href="Wen_Ching-Jung_Resume.pdf" download>下載履歷</a>
       </div>
     </div>
@@ -45,6 +49,7 @@
     </div>
   </div>
 </section>
+
   <div class="about_me" id="about">
   <div class="about_me_img"><img src="img/Profoli.JPG" alt=""></div>
   <div class="about_me_text">
@@ -70,7 +75,7 @@
         </li>
         <li class="timeline_item">
           <p class="timeline_role">Man & Kids 兒童傢俱｜平面設計師</p>
-          <time class="timeline_time">2023/07 – 2024/04</time>
+          <time class="timeline_time">2021/11 – 2024/04</time>
         </li>
                 <li class="timeline_item">
           <p class="timeline_role">南台科技大學｜創新產品設計系</p>
@@ -302,6 +307,11 @@
     if (!header.contains(e.target)) closeMenu();
   });
 </script>
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js" defer></script>
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js" defer></script>
+<script src="js/hero.js" defer></script>
+<script src="js/glows.js" defer></script>
+
 
 </body>
 </html>
