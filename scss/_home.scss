@@ -266,7 +266,7 @@
       height: 2px;
       margin-left: 12px;
       background: $color-green-dark;
-    }}
+}    }
 
   .skills_container {
     display: flex;
@@ -521,6 +521,7 @@
       height: 100%;
       display: block;
       object-fit: cover;
+      min-height: 300px;
     }
   }
 

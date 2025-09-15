@@ -558,6 +558,7 @@ p {
   height: 100%;
   display: block;
   object-fit: cover;
+  min-height: 300px;
 }
 .swiper .swiper-pagination {
   position: absolute;
