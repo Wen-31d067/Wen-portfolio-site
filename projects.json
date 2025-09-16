@@ -60,7 +60,7 @@
   {
     "id": 8,
     "title": "新春特賣 主視覺",
-    "desc": "粉橘色系與圖像圖騰，整合促銷與公告版式。",
+    "desc": "",
     "img": "img/Portfolio/Visual_design8.jpg",
     "alt": "新春特賣主視覺與社群行銷素材",
     "category": "visual"
@@ -156,7 +156,7 @@
   {
     "id": 20,
     "title": "Banner 設計",
-    "desc": "加入可愛插圖及鮮豔活潑色調，呼應兒童商品。",
+    "desc": "",
     "img": "img/Portfolio/Social_media4.jpg",
     "alt": "品牌促銷 Banner",
     "category": "media"
@@ -173,7 +173,7 @@
   {
     "id": 22,
     "title": "Banner 設計",
-    "desc": "活潑排版及插圖",
+    "desc": "",
     "img": "img/Portfolio/Social_media6.jpg",
     "alt": "旅遊主題Banner",
     "category": "media"
@@ -181,7 +181,7 @@
   {
     "id": 23,
     "title": "社群貼文設計",
-    "desc": "奶油色系與手寫感字體，品牌氛圍柔和統一。",
+    "desc": "。",
     "img": "img/Portfolio/Social_media7.jpg",
     "alt": "sunny shop 社群貼文設計",
     "category": "media"
@@ -189,7 +189,7 @@
     {
     "id": 24,
     "title": "Banner 設計",
-    "desc": "直式版面，方格紙底與文具插圖，大字引導視線。",
+    "desc": "",
     "img": "img/Portfolio/Social_media8.jpg",
     "alt": "Back to school 直式 Banner",
     "category": "media"
@@ -205,13 +205,13 @@
   {
     "id": 26,
     "title": "吉祥物插畫｜Man&Kids Family",
-    "desc": "品牌吉祥物設計，還有製作成貼紙",
+    "desc": "品牌吉祥物設計，另有製作成貼紙",
     "img": "img/Portfolio/Illustration2.jpg",
     "alt": "品牌吉祥物角色插畫",
     "category": "Illustration"
   },
   {
-    "id": 26,
+    "id": 27,
     "title": "三摺頁製作",
     "desc": "根據品牌不同分類之傢具，製作對應之詳細摺頁介紹。",
     "img": "img/Portfolio/Illustration3.png",
@@ -219,85 +219,137 @@
     "category": "Illustration"
   },
   {
-    "id": 27,
+  "id": 28,
+  "title": "團體專案－高齡者行動安全裝置設計",
+  "desc": "結合穿戴裝置與行動應用程式的整合設計，協助高齡者在日常步行與緊急狀況下能即時獲得安全保障。作品包含實體產品外觀設計、情境使用模擬，以及介面規劃。",
+  "img": "img/Portfolio/Illustration4.jpg",
+  "alt": "高齡者穿戴式行動安全裝置設計",
+  "category": "Illustration"
+},
+{
+  "id": 29,
+  "title": "團體專案－行動介面設計",
+  "desc": "以高齡者需求為核心的行動應用程式介面設計，功能涵蓋註冊登入、行程提醒、緊急聯絡、即時定位與地圖導引。透過清晰的資訊架構與直覺操作，提升長者與家屬的使用便利性與安心感。",
+  "img": "img/Portfolio/HUNG UP LIGHT_8.jpg",
+  "alt": "HugLight 高齡者安全應用介面設計",
+  "category": "Illustration"
+},
+{
+  "id": 30,
+  "title": "團體專案－小U的共享日子",
+  "desc": "以陪伴與情感連結為核心的行動應用程式設計，透過日記分享、聊天互動與生活記事，建立家人與使用者之間的交流平台。整體視覺以溫暖橘色與插畫風格呈現，營造親切氛圍並強化使用體驗。",
+  "img": "img/Portfolio/Illustration6.jpg",
+  "alt": "小U的共享日子社群互動應用設計",
+  "category": "Illustration"
+}
+,
+  {
+    "id": 31,
     "title": "Logo｜棒球隊旗幟",
     "desc": "",
-    "img": "img/Portfolio/Illustration4.jpg",
+    "img": "img/Portfolio/Illustration7.jpg",
     "alt": "棒球隊Logo與旗幟展示",
     "category": "Illustration"
   },
   {
-    "id": 28,
+    "id": 32,
     "title": "Procreate插畫",
     "desc": "",
-    "img": "img/Portfolio/Illustration5.jpg",
-    "alt": "森林露營夜景場景插畫",
+    "img": "img/Portfolio/Illustration8.jpg",
+    "alt": "Procreate插畫",
     "category": "Illustration"
   },
-  {
-    "id": 29,
-    "title": "Procreate插畫",
+    {
+    "id": 33,
+    "title": "",
     "desc": "",
-    "img": "img/Portfolio/Illustration6.jpg",
+    "img": "img/Portfolio/Illustration9.jpg",
     "alt": "Into the wild 公路場景插畫",
     "category": "Illustration"
   },
   {
-    "id": 30,
+    "id": 34,
     "title": "Procreate插畫",
     "desc": "",
-    "img": "img/Portfolio/Illustration7.jpg",
+    "img": "img/Portfolio/Illustration10.jpg",
     "alt": "Procreate插畫",
     "category": "Illustration"
   },
   {
-    "id": 31,
-    "title": "Procreate插畫",
+    "id": 35,
+    "title": "咖啡杯設計",
     "desc": "",
-    "img": "img/Portfolio/Illustration8.jpg",
-    "alt": "聖誕主題Procreate插畫",
+    "img": "img/Portfolio/Illustration11.jpg",
+    "alt": "咖啡杯設計",
     "category": "Illustration"
   },
 {
-"id": 32,
-"title": "Procreate插畫",
+"id": 36,
+"title": "",
 "desc": "",
 "img": "img/Portfolio/square1.jpg",
 "alt": "穿雨靴提著魚鉤的釣魚女孩插畫",
 "category": "Illustration"
 },
 {
-"id": 33,
-"title": "Procreate插畫",
+"id": 37,
+"title": "",
 "desc": "",
 "img": "img/Portfolio/square2.JPG",
 "alt": "雪地裡帶旗幟裝飾的小屋插畫",
 "category": "Illustration"
 },
 {
-"id": 34,
-"title": "Procreate插畫",
+"id": 38,
+"title": "",
 "desc": "",
 "img": "img/Portfolio/square3.JPG",
 "alt": "多個聖誕樹與裝飾物的拼貼插畫",
 "category": "Illustration"
 },
 {
-"id": 35,
-"title": "Procreate插畫",
+"id": 39,
+"title": "",
 "desc": "",
 "img": "img/Portfolio/square4.GIF",
 "alt": "抱著圓球甜點行走的男孩插畫",
 "category": "Illustration"
 },
 {
-"id": 36,
-"title": "Procreate插畫",
+"id": 40,
+"title": "",
 "desc": "",
 "img": "img/Portfolio/square5.JPG",
 "alt": "聖誕天使與蠟燭的手繪插畫",
 "category": "Illustration"
 }
+,
+  {
+    "id": 41,
+    "title": "廣告影音素材｜旋轉書櫃",
+    "desc": "標準字設計",
+    "img": "img/Portfolio/zeczec4.jpg",
+    "alt": "旋轉書櫃募資廣告影片視覺素材",
+    "category": "zeczec"
+  }
+  ,
+  {
+    "id": 42,
+    "title": "廣告影音素材｜旋轉書櫃",
+    "desc": "插圖繪製",
+    "img": "img/Portfolio/zeczec5.jpg",
+    "alt": "插圖及標準字",
+    "category": "zeczec"
+  }
+  ,
+  {
+    "id": 43,
+    "title": "廣告影音素材｜旋轉書櫃",
+    "desc": "",
+    "img": "img/Portfolio/zeczec6.jpg",
+    "alt": "旋轉書櫃募資廣告影片視覺素材",
+    "category": "zeczec"
+  }
 ]
 
 

@@ -4,7 +4,7 @@ button.button {
   -webkit-appearance: none;
   appearance: none;
   display: inline-block;
-  padding: 8px 13px;
+  padding: 8px 20px;
   font-size: 17px;
   font-weight: 700;
   border-radius: 999px;
@@ -42,6 +42,7 @@ button.button {
   border-radius: 5px;
   text-decoration: none;
   font-size: 16px;
+  padding: 8px 10px;
 }
 .button--accent:hover {
   background-color: darken($color-accent, 8%); // hover 深一點
@@ -49,6 +50,7 @@ button.button {
   box-shadow: 0 4px 8px rgba(0,0,0,.15);
   text-decoration: none;
   font-size: 16px;
+  padding: 8px 10px;
 }
 
 .button--green {
