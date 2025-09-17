@@ -75,7 +75,7 @@
   },
   {
     "id": 10,
-    "title": "廣告影音素材｜旋轉書櫃",
+    "title": "廣告影音素材",
     "desc": "影片剪輯及縮圖設計。",
     "img": "img/Portfolio/zeczec2.jpg",
     "alt": "旋轉書櫃募資廣告影片視覺素材",
@@ -83,7 +83,7 @@
   },
   {
     "id": 11,
-    "title": "商品頁設計｜旋轉書櫃",
+    "title": "商品頁設計",
     "desc": "負責募資商品頁設計，把圖文模組化，配合檔期快速更新。",
     "img": "img/Portfolio/zeczec3.jpg",
     "alt": "旋轉書櫃募資商品頁長頁設計",
@@ -91,7 +91,7 @@
   },
 {
   "id": 12,
-  "title": "募資專案頁｜旋轉書櫃",
+  "title": "募資專案頁",
   "desc": "實際上線頁面的情境示意，呈現頁面佈局、主視覺與品牌調性。",
   "img": "img/Portfolio/zeczec0.jpeg",
   "alt": "旋轉書櫃嘖嘖募資專案頁 Mockup 展示",
@@ -326,8 +326,8 @@
 ,
   {
     "id": 41,
-    "title": "廣告影音素材｜旋轉書櫃",
-    "desc": "標準字設計",
+    "title": "Logo標準字設計",
+    "desc": "",
     "img": "img/Portfolio/zeczec4.jpg",
     "alt": "旋轉書櫃募資廣告影片視覺素材",
     "category": "zeczec"
@@ -335,8 +335,8 @@
   ,
   {
     "id": 42,
-    "title": "廣告影音素材｜旋轉書櫃",
-    "desc": "插圖繪製",
+    "title": "插圖繪製",
+    "desc": "",
     "img": "img/Portfolio/zeczec5.jpg",
     "alt": "插圖及標準字",
     "category": "zeczec"
@@ -344,7 +344,7 @@
   ,
   {
     "id": 43,
-    "title": "廣告影音素材｜旋轉書櫃",
+    "title": "投廣素材",
     "desc": "",
     "img": "img/Portfolio/zeczec6.jpg",
     "alt": "旋轉書櫃募資廣告影片視覺素材",

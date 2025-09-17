@@ -124,16 +124,22 @@ section.Background {
 .Mockup {
   margin: 0;
   border: 1px solid #e5e7eb;
-  border-radius: 12px;
+  border-radius: 10px;
   overflow: hidden;
   background: #fff;
 
   img {
     display: block;
     width: 100%;
-    height: clamp(220px, 32vw, 360px);
+    height: 350px;
     object-fit: cover;
     object-position: center;
+    @media (max-width: 768px) {
+    height: 450px;
+  }
+    @media (max-width: 500px) {
+    height: auto;
+  }
   }
 
   figcaption {
@@ -198,7 +204,7 @@ section.Background {
 .color_section{
   max-width: 1000px;
   margin: 0 auto;
-  padding: 10px;
+  padding: 10px 15px;
 }
 
 .awards {
@@ -249,6 +255,11 @@ section.Background {
             z-index: 1000;
         }
 
-        #scrollToTopBtn:hover {
+#scrollToTopBtn:hover {
             background-color: $color-green-dark;
+        }
+
+.stust{
+          text-align: center;
+          padding-bottom: 15px;
         }
