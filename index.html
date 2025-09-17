@@ -216,7 +216,7 @@
 
   </div>
     <div class="design_card">
-  <img src="img/zeczec.jpeg" loading="lazy" alt="嘖嘖募資專案視覺設計">
+  <img src="img/Zeczec_project.webp" loading="lazy" alt="嘖嘖募資專案視覺設計">
   <div class="design_text">
     <a href="zeczec.html" class="design_title">募資專案</a>
     <a href="zeczec.html" class="circle_btn">
@@ -299,40 +299,7 @@
 <script src="js/scroll_nav.js"></script>
 <script src="js/carousel.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/swiper@12/swiper-bundle.min.js"></script>
-<script>
-  const header = document.querySelector('.site-header');
-  const btn    = document.getElementById('nav-toggle');
-  const nav    = document.getElementById('nav');
-
-  function closeMenu() {
-    header.classList.remove('is-open');
-    btn.setAttribute('aria-expanded', 'false');
-  }
-
-  btn.addEventListener('click', () => {
-    const open = header.classList.toggle('is-open');
-    btn.setAttribute('aria-expanded', open ? 'true' : 'false');
-  });
-
-  // 點連結後關閉
-  nav.querySelectorAll('a').forEach(a => {
-    a.addEventListener('click', closeMenu);
-  });
-
-  // 按 Esc 關閉
-  window.addEventListener('keydown', (e) => {
-    if (e.key === 'Escape') closeMenu();
-  });
-
-  // 視窗放大回桌機時重置狀態
-  window.addEventListener('resize', () => {
-    if (window.innerWidth >= 768) closeMenu();
-  });
-
-  document.addEventListener('click', (e) => {
-    if (!header.contains(e.target)) closeMenu();
-  });
-</script>
+<script src="js/close_menu.js" ></script>
 <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js" defer></script>
 <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js" defer></script>
 <script src="js/hero.js" defer></script>

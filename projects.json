@@ -181,7 +181,7 @@
   {
     "id": 23,
     "title": "社群貼文設計",
-    "desc": "。",
+    "desc": "",
     "img": "img/Portfolio/Social_media7.jpg",
     "alt": "sunny shop 社群貼文設計",
     "category": "media"
@@ -277,10 +277,10 @@
   },
   {
     "id": 35,
-    "title": "咖啡杯設計",
+    "title": "Procreate插畫",
     "desc": "",
-    "img": "img/Portfolio/Illustration11.jpg",
-    "alt": "咖啡杯設計",
+    "img": "img/Portfolio/square2.JPG",
+    "alt": "雪地裡帶旗幟裝飾的小屋插畫",
     "category": "Illustration"
   },
 {
@@ -295,8 +295,8 @@
 "id": 37,
 "title": "",
 "desc": "",
-"img": "img/Portfolio/square2.JPG",
-"alt": "雪地裡帶旗幟裝飾的小屋插畫",
+"img": "img/Portfolio/square6.GIF",
+"alt": "聖誕gif",
 "category": "Illustration"
 },
 {
@@ -312,7 +312,7 @@
 "title": "",
 "desc": "",
 "img": "img/Portfolio/square4.GIF",
-"alt": "抱著圓球甜點行走的男孩插畫",
+"alt": "下雪插畫",
 "category": "Illustration"
 },
 {
