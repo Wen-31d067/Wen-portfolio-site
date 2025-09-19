@@ -8,9 +8,19 @@ h1 {
 h2 {
   font-size: clamp(1.125em, 2.2vw, 1.25em);
   line-height: 1.4; color: $color-green-dark;
+  font-weight: 600;
 }
+
+h3 {
+  font-size: clamp(1em, 1.8vw, 1.125em);
+  line-height: 1.5;
+  color: $color-green-darker;
+  font-weight: 500;
+}
+
 
 p  { font-size: clamp(0.9375em, 1.6vw, 1em);
   line-height: 1.6;color: $color-green-darker;
+  font-weight: 400;
 }
 

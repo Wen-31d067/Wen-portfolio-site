@@ -1,12 +1,11 @@
 @use './variables' as *;
-.button,
-button.button {
+.button {
   -webkit-appearance: none;
   appearance: none;
   display: inline-block;
   padding: 8px 20px;
   font-size: 17px;
-  font-weight: 700;
+  font-weight: 500;
   border-radius: 999px;
   cursor: pointer;
   transition: all 0.3s ease;
@@ -16,6 +15,7 @@ button.button {
 .button--solid {
   background-color: #ffffff;
   color: #667A2C;
+    font-weight: 500;
 }
 .button--solid:hover {
   background-color: #f2f2f2;

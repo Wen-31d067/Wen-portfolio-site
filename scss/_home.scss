@@ -147,7 +147,6 @@
 
 }
 
-
 .hero_content,
   .hero_photo {
     position: relative; z-index: 2; 
@@ -257,7 +256,6 @@
 .section_title {
     display: flex;
     align-items: center;
-    font-weight: 700;
     padding-bottom: 15px;
 
     &::after {
@@ -316,7 +314,9 @@
       width: 2px;
       background: $color-green-dark;
     }
-
+.timeline_title{
+margin-left: 22px;
+}
     .timeline_item {
       position: relative;
       padding: 0 0 0 17px;
@@ -366,7 +366,6 @@
   .section_title {
     display: flex;
     align-items: center;
-    font-weight: 700;
     padding-bottom: 15px;
 
     &::after {
@@ -417,7 +416,7 @@
       gap: 6px;
     }
 
-    .project_title { font-weight: 700; }
+    .project_title { font-weight: 500; }
     .project_desc { color: $color-green-darker; }
 
     .project_button {
@@ -453,7 +452,6 @@
   .section_title {
     display: flex;
     align-items: center;
-    font-weight: 700;
     padding-bottom: 15px;
 
     &::after {
