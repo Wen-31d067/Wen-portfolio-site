@@ -467,7 +467,24 @@ p {
   background: #758836;
 }
 .section_skills .timeline .timeline_title {
-  margin-left: 22px;
+  position: relative;
+  display: inline-block;
+  z-index: 1;
+  padding: 20px;
+  color: #fff;
+  font-weight: 500;
+}
+.section_skills .timeline .timeline_title::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 0;
+  transform: translate(-50%, -50%);
+  width: 86px;
+  height: 40px;
+  margin-left: 42px;
+  background-color: #8AB300;
+  z-index: -1;
 }
 .section_skills .timeline .timeline_item {
   position: relative;

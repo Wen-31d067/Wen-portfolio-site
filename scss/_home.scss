@@ -305,6 +305,7 @@
     position: relative;
     padding-left: 12px;
 
+
     &::before { // 線
       content: "";
       position: absolute;
@@ -314,9 +315,41 @@
       width: 2px;
       background: $color-green-dark;
     }
-.timeline_title{
-margin-left: 22px;
+.timeline_title {
+  position: relative;
+  display: inline-block;
+  z-index: 1; 
+  padding: 20px ; 
+  color: #fff;
+  font-weight: 500;
 }
+
+.timeline_title::before {
+  content: ''; 
+  position: absolute; 
+  top: 50%;
+  left: 0;
+  transform: translate(-50%, -50%); 
+  width: 86px;
+  height: 40px;
+  margin-left: 42px;
+  background-color: $color-green-light;
+  // border-radius: 50%;
+  z-index: -1;
+}
+
+// .timeline_title::after {
+//   content: '';
+//   position: absolute;
+//   top: 50%;
+//   right: 0;
+//   transform: translate(50%, -50%); 
+//   width: 30px;
+//   height: 30px;
+//   background-color:$color-accent; 
+//   border-radius: 50%;
+//   z-index: -1;
+// }
     .timeline_item {
       position: relative;
       padding: 0 0 0 17px;
