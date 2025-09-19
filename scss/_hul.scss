@@ -148,7 +148,6 @@ section.Background {
   }
 }
 
-/* 版面 */
 .color_grid{
   max-width: 1000px;
   margin: 0 auto;
@@ -163,14 +162,12 @@ section.Background {
   }
 }
 
-/* 說明 */
 .color_copy p{
   margin: 0;
   line-height: 1.8;
 
 }
 
-/* 色票區 */
 .swatches{
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -182,8 +179,6 @@ section.Background {
     grid-template-columns: 1fr; }
 }
 
-
-/* 色塊 */
 .swatch span{
   display: block;
   height: 84px;
@@ -191,7 +186,6 @@ section.Background {
   box-shadow: 0 6px 16px rgba(0,0,0,.06);
 }
 
-/* 三個色票上色 */
 .swatch:nth-child(1) span{ background:#355A63; }
 .swatch:nth-child(2) span{ background:#7D2E52; } 
 .swatch:nth-child(3) span{ background:#C9CDD2; }
