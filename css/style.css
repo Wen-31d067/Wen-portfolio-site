@@ -159,7 +159,7 @@ p {
 /* ===================== Header ===================== */
 .site-header {
   position: static;
-  z-index: 20;
+  z-index: 21;
   padding: 20px 12px 10px 12px;
   background: #758836;
   /* 手機版：隱藏橫排 nav，顯示漢堡鍵；展開改成下拉面板 */
@@ -245,6 +245,7 @@ p {
     border-radius: 16px;
     padding: 14px 16px;
     box-shadow: 0 10px 30px rgba(95, 116, 47, 0.18);
+    z-index: 22;
   }
   .site-header .nav a {
     padding-block: 6px;
@@ -461,10 +462,10 @@ p {
   content: "";
   position: absolute;
   left: 11px;
-  top: 0;
-  bottom: 0;
+  top: 20px;
   width: 2px;
   background: #758836;
+  height: 370px;
 }
 .section_skills .timeline .timeline_title {
   position: relative;
@@ -483,7 +484,7 @@ p {
   width: 86px;
   height: 40px;
   margin-left: 42px;
-  background-color: #8AB300;
+  background-color: #758836;
   z-index: -1;
 }
 .section_skills .timeline .timeline_item {
@@ -518,6 +519,26 @@ p {
   color: #758836;
   font-size: 1.7rem;
   vertical-align: middle;
+}
+.section_skills .timeline_title {
+  position: relative;
+  display: inline-block;
+  z-index: 1;
+  padding: 20px;
+  color: #fff;
+  font-weight: 500;
+}
+.section_skills .timeline_title::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 0;
+  transform: translate(-50%, -50%);
+  width: 86px;
+  height: 40px;
+  margin-left: 42px;
+  background-color: #758836;
+  z-index: -1;
 }
 
 /* ===================== Projects ===================== */

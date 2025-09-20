@@ -3,7 +3,7 @@
 /* ===================== Header ===================== */
 .site-header {
   position: static;
-  z-index: 20;
+  z-index: 21;
   padding: 20px 12px 10px 12px;
   background: $color-green-dark;
 
@@ -87,7 +87,7 @@
       border-radius: 16px;
       padding: 14px 16px;
       box-shadow: 0 10px 30px rgba(#5f742f, .18);
-
+      z-index: 22;
       a { padding-block: 6px; }
     }
   }
@@ -304,18 +304,16 @@
   .timeline {
     position: relative;
     padding-left: 12px;
-
-
     &::before { // 線
       content: "";
       position: absolute;
       left: 11px;
-      top: 0;
-      bottom: 0;
+      top: 20px;
       width: 2px;
       background: $color-green-dark;
+      height: 370px;
     }
-.timeline_title {
+    .timeline_title {
   position: relative;
   display: inline-block;
   z-index: 1; 
@@ -333,7 +331,7 @@
   width: 86px;
   height: 40px;
   margin-left: 42px;
-  background-color: $color-green-light;
+  background-color: $color-green-dark;
   // border-radius: 50%;
   z-index: -1;
 }
@@ -388,6 +386,27 @@
     font-size: 1.7rem;
     vertical-align: middle;
   }
+  .timeline_title {
+  position: relative;
+  display: inline-block;
+  z-index: 1; 
+  padding: 20px ; 
+  color: #fff;
+  font-weight: 500;
+}
+.timeline_title::before {
+  content: ''; 
+  position: absolute; 
+  top: 50%;
+  left: 0;
+  transform: translate(-50%, -50%); 
+  width: 86px;
+  height: 40px;
+  margin-left: 42px;
+  background-color: $color-green-dark;
+  // border-radius: 50%;
+  z-index: -1;
+}
 }
 
 /* ===================== Projects ===================== */
